@@ -1,0 +1,17 @@
+{
+  "name": "stackoverflow-28705672",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jade": "^1.0.0",
+    "gulp-data": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
